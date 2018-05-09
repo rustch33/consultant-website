@@ -1,19 +1,21 @@
-/* CSS Reset */
+/* --- CSS RESET --- */
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-.header-banner {
-  display: block;
+/* --- UNIVERSAL STYLES --- */
+section {
+  padding: 5vh 5%;
 
 }
-bkg-img {
-  background-size: cover;
-  display: block;
-  max-width: 100%;
-  max-height: 100%;
-  position: fixed;
-  margin: auto;
+/* --- TYPOGRAPHY --- */
+body{font-family: 'Playfair Display', serif;
+}
+
+
+/* --- TOP BANNER --- */
+img {
+
 }
